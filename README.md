@@ -1,8 +1,11 @@
 # bashrc
 
 Docker command alias if have docker
+
 dockerstop =>docker stop
+
 dockerrm  => remove all container
+
 dockerrmi => remove all image 
 
 format
